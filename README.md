@@ -18,7 +18,7 @@ Used probability, A/B Testing and Regression Analysis in Python to answer questi
 
 * ### **Handling Text File Using Python**
 
-A part of a sample script of the Game of Thrones series was taken and important information was extracted using Python to answer relevant questions regarding the text. [refer]("Handling%20Text%20File%20using%20Python(GOT)"/Project.ipynb)
+A part of a sample script of the Game of Thrones series was taken and important information was extracted using Python to answer relevant questions regarding the text. [refer](Handling_GOT_Text_File_using_Python/Project.ipynb)
 
 
 * ### **@rate_dogs Twitter Handle**
