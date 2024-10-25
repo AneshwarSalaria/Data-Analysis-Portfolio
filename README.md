@@ -1,6 +1,20 @@
 # Data Analytics Portfolio
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. There are several different projects that are organized in sub-folders. These sub-folders are organized similarly to the organization of the content of this document.
 
-## Projects:
+## Table of Contents
+- [About]
+- [Portfolio Projects](https://www.github.com/AneshwarSalaria/Data-Analysis-Portfolio/README.md#Portfolio%20Projects)
+  -[Food Forecasting Analysis]
+  -[The Movie Database]
+  -[E-Commerce Website]
+  -[Handling Text File Using Python]
+  -[@rate_dogs Twitter Handle]
+  -[NYC Taxi Trip]
+  -[NYC Taxi Trip]
+  -[Exploring Weather Trends]
+  -[Geospatial Analysis of Superstore]
+
+## Portfolio Projects:
 
 * ### **Food Forecasting Analysis**
 
