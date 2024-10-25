@@ -1,17 +1,19 @@
 # Data Analytics Portfolio
+## About
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. There are several different projects that are organized in sub-folders. These sub-folders are organized similarly to the organization of the content of this document.
 
 ## Table of Contents
-- [About]
+- [About](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/blob/main/README.md#about)
+  
 - [Portfolio Projects](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - [Food Forecasting Analysis](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#Food-Forecasting-Analysis)
-  - [The Movie Database](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#The-Movie-Database)
-  - [E-Commerce Website](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#E-Commerce-Website)
-  - [Handling Text File Using Python](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#Handling-Text-File-Using-Python)
-  - [@rate_dogs Twitter Handle](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#@rate_dogs-Twitter-Handle)
-  - [NYC Taxi Trip](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#NYC-Taxi-Trip)
-  - [Exploring Weather Trends](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#Exploring-Weather-Trends)
-  - [Geospatial Analysis of Superstore](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio/edit/main/README.md#Geospatial-Analysis-of-Superstore)
+  - [Food Forecasting Analysis](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#Food-Forecasting-Analysis)
+  - [The Movie Database](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#The-Movie-Database)
+  - [E-Commerce Website](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#E-Commerce-Website)
+  - [Handling Text File Using Python](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#Handling-Text-File-Using-Python)
+  - [@rate_dogs Twitter Handle](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#@rate_dogs-Twitter-Handle)
+  - [NYC Taxi Trip](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#NYC-Taxi-Trip)
+  - [Exploring Weather Trends](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#Exploring-Weather-Trends)
+  - [Geospatial Analysis of Superstore](https://github.com/AneshwarSalaria/Data-Analysis-Portfolio#Geospatial-Analysis-of-Superstore)
 
 ## Portfolio Projects:
 
